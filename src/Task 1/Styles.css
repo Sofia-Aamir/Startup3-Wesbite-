@@ -1,0 +1,26 @@
+.custom-checkbox {
+    appearance: none;
+    background-color: #25DAC5; /* Green background */
+    width: 20px; /* Increased size for visibility */
+    height: 20px; /* Increased size for visibility */
+    border-radius: 4px; /* Rounded corners */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative; /* Position for the pseudo-element */
+  }
+  
+  .custom-checkbox:checked::before {
+    content: '✔'; /* Tick symbol */
+    color: #2F1893; /* Dark blue tick */
+    font-size: 14px; /* Size of the tick */
+    position: absolute; /* Position the tick inside the checkbox */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the tick */
+  }
+  
+  .custom-checkbox:focus {
+    outline: none; /* Remove default focus outline */
+  }
+  
