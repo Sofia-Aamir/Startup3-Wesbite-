@@ -17,7 +17,7 @@ export const ShowcaseSection = () => {
             <div className="text-center sm:ml-40">
         
               <img
-                src="/work 1.png"
+                src="/Work 1.png"
                 alt="Work 1"
                 style={{ width: "400px", height: "350px" }}
                 className="mx-auto object-cover rounded-lg"
@@ -28,7 +28,7 @@ export const ShowcaseSection = () => {
             <div className="text-center sm:mr-40">
           
               <img
-                src="/work 2.png"
+                src="/Work 2.png"
                 alt="Work 2"
                 style={{ width: "400px", height: "350px" }}
                 className="mx-auto object-cover rounded-lg"
@@ -40,7 +40,7 @@ export const ShowcaseSection = () => {
             <div className="text-center sm:ml-40">
              
               <img
-                src="/work 3.png"
+                src="/Work 3.png"
                 alt="Work 3"
                 style={{ width: "400px", height: "350px" }}
                 className="mx-auto object-cover rounded-lg"
@@ -51,7 +51,7 @@ export const ShowcaseSection = () => {
             {/* Fourth item */}
             <div className="text-center sm:mr-40">
               <img
-                src="/work 4.png"
+                src="/Work 4.png"
                 alt="Work 4"
                 style={{ width: "400px", height: "350px" }}
                 className="mx-auto object-cover rounded-lg"

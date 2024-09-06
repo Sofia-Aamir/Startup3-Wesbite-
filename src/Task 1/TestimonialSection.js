@@ -8,7 +8,7 @@ export const TestimonialSection = () => {
             <div className="flex justify-center items-center sm:ml-40"> {/* Positive margin-left to move right */}
     <div className="bg-[#26177d] rounded-lg p-6 flex items-start gap-3 text-left border border-white"
          style={{ width: '400px', height: '237px' }}>
-      <img src="mockup.png" alt="Rayhan Curran" className="w-16 h-16 rounded-full" />
+      <img src="Userpic.png" alt="Rayhan Curran" className="w-16 h-16 rounded-full" />
       <div>
         <p className="text-sm leading-6 mb-1">
           Get a fully retina ready site when
@@ -25,7 +25,7 @@ export const TestimonialSection = () => {
             <div className="flex justify-center items-center sm:mr-40"> {/* Negative margin-left reduced */}
               <div className="bg-[#26177d] rounded-lg p-6 flex items-start gap-3 text-left border border-white"
                    style={{ width: '400px', height: '237px' }}>
-                <img src="mockup.png" alt="Kayley Frame" className="w-16 h-16 rounded-full" />
+                <img src="Userpic2.png" alt="Kayley Frame" className="w-16 h-16 rounded-full" />
                 <div>
                   <p className="text-sm leading-6 mb-1">
                     As a business targeting high net
@@ -40,7 +40,7 @@ export const TestimonialSection = () => {
             <div className="flex justify-center items-center sm:ml-40"> {/* Adjust negative margins for consistency */}
               <div className="bg-[#26177d] rounded-lg p-6 flex items-start gap-3 text-left border border-white"
                    style={{ width: '400px', height: '237px' }}>
-                <img src="mockup.png" alt="Gene Whitfield" className="w-16 h-16 rounded-full" />
+                <img src="Userpic3.png" alt="Gene Whitfield" className="w-16 h-16 rounded-full" />
                 <div>
                   <p className="text-sm leading-6 mb-1">
                     The most important part of the
@@ -53,7 +53,7 @@ export const TestimonialSection = () => {
             <div className="flex justify-center items-center sm:mr-40"> {/* Adjust negative margins for consistency */}
               <div className="bg-[#26177d] rounded-lg p-6 flex items-start gap-3 text-left border border-white"
                    style={{ width: '400px', height: '237px' }}>
-                <img src="mockup.png" alt="Allan Kim" className="w-16 h-16 rounded-full" />
+                <img src="Mask.png" alt="Allan Kim" className="w-16 h-16 rounded-full" />
                 <div>
                   <p className="text-sm leading-6 mb-1">
                     I've built my website with Startup
