@@ -51,7 +51,7 @@ export const ShowcaseSection = () => {
             {/* Fourth item */}
             <div className="text-center sm:mr-40">
               <img
-                src="/Work 4.png"
+                src="/Work 1.png"
                 alt="Work 4"
                 style={{ width: "400px", height: "350px" }}
                 className="mx-auto object-cover rounded-lg"
